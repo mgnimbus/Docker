@@ -1,0 +1,18 @@
+5850a789011f: CMD ["python3"]: 0B
+<missing>: RUN /bin/sh -c set -eux;   wget -O get-pip.p…: 9.9MB
+<missing>: ENV PYTHON_GET_PIP_SHA256=45a2bb8bf2bb5eff16…: 0B
+<missing>: ENV PYTHON_GET_PIP_URL=https://github.com/py…: 0B
+<missing>: ENV PYTHON_SETUPTOOLS_VERSION=58.1.0: 0B
+<missing>: ENV PYTHON_PIP_VERSION=23.0.1: 0B
+<missing>: RUN /bin/sh -c set -eux;  for src in idle3 p…: 32B
+<missing>: RUN /bin/sh -c set -eux;   wget -O python.ta…: 39.4MB
+<missing>: ENV PYTHON_VERSION=3.9.18: 0B
+<missing>: ENV GPG_KEY=E3FF2839C048B25C084DEBE9B26995E3…: 0B
+<missing>: RUN /bin/sh -c set -eux;  apt-get update;  a…: 18.6MB
+<missing>: ENV LANG=C.UTF-8: 0B
+<missing>: ENV PATH=/usr/local/bin:/usr/local/sbin:/usr…: 0B
+<missing>: /bin/sh -c set -ex;  apt-get update;  apt-ge…: 587MB
+<missing>: /bin/sh -c apt-get update && apt-get install…: 177MB
+<missing>: /bin/sh -c set -eux;  apt-get update;  apt-g…: 48.4MB
+<missing>: /bin/sh -c #(nop)  CMD ["bash"]: 0B
+<missing>: /bin/sh -c #(nop) ADD file:3a6d159d80cb8abfa…: 116MB
